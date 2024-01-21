@@ -1,16 +1,13 @@
-### Hi there 👋
+Rahul Roy
+MS Robotics at Northwestern University
 
-<!--
-**roy2909/roy2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://roy2909.github.io/))
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-roy2909/))
 
-Here are some ideas to get you started:
+<details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<summary><b><u>Robotics 🤖 </u></b></summary>
+
+I am a current Master's in Robotics student at Northwestern University.
+
+</details>
