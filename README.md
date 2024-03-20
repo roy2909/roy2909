@@ -8,6 +8,6 @@ MS Robotics at Northwestern University
 
 <summary><b><u>Robotics 🤖 </u></b></summary>
 
-I am a current Master's in Robotics student at Northwestern University.
+I am a current Master's in Robotics student at Northwestern University. Check out my [Portfolio](https://roy2909.github.io/) for details about the projects I've worked on.
 
 </details>
