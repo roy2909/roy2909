@@ -6,7 +6,6 @@
 
 ---
 
-<details>
 
 Hello! I'm Rahul Roy, currently pursuing a Master's in Robotics at Northwestern University. My passion lies in exploring and creating innovative robotic solutions that can make a significant impact in real-world scenarios. 
 
@@ -22,4 +21,4 @@ Hello! I'm Rahul Roy, currently pursuing a Master's in Robotics at Northwestern 
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-roy2909/) or visit my [Website](https://roy2909.github.io/) to learn more about my work and experiences.
-</details>
+
