@@ -7,7 +7,6 @@
 ---
 
 <details>
-<summary><b><u>Robotics Enthusiast 🤖</u></b></summary>
 
 Hello! I'm Rahul Roy, currently pursuing a Master's in Robotics at Northwestern University. My passion lies in exploring and creating innovative robotic solutions that can make a significant impact in real-world scenarios. 
 
