@@ -7,7 +7,7 @@
 ---
 
 
-Hello! I'm Rahul Roy, currently pursuing a Master's in Robotics at Northwestern University. My passion lies in exploring and creating innovative robotic solutions that can make a significant impact in real-world scenarios. 
+Hello! I'm Rahul Roy, a Robotics Engineer with a Master's in Robotics from Northwestern University. My passion lies in exploring and creating innovative robotic solutions that can make a significant impact in real-world scenarios. 
 
 ### Highlights:
 - Extensive hands-on experience with advanced robotic systems.
