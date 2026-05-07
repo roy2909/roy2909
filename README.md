@@ -7,7 +7,7 @@
 
 Founding Software Engineer at [Ulysses](https://www.theoceancompany.com/), where we're building autonomous underwater vehicles to steward the world's oceans, from defending critical maritime infrastructure to restoring coastal ecosystems.
 
-I work on the autonomy stack powering our various robots.
+I work on building out the autonomy software stack that powers our underwater robots.
 
 ### Background
 
