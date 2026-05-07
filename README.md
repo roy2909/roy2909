@@ -1,23 +1,27 @@
 # Rahul Roy
 
-[![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://roy2909.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-roy2909/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic)](https://roy2909.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic)](https://www.linkedin.com/in/rahul-roy2909/)
 
 ---
 
+Founding Software Engineer at [Ulysses](https://www.theoceancompany.com/), where we're building autonomous underwater vehicles to steward the world's oceans — from defending critical maritime infrastructure to restoring coastal ecosystems.
 
-Hello! I'm Rahul Roy, a Robotics Engineer with a Master's in Robotics from Northwestern University. My passion lies in exploring and creating innovative robotic solutions that can make a significant impact in real-world scenarios. 
+I work on the autonomy stack powering our various robots.
 
-### Highlights:
-- Extensive hands-on experience with advanced robotic systems.
-- Strong background in programming, computer vision, and machine learning.
-- Actively engaged in research and development of autonomous systems.
+### Background
 
-### Projects:
-- Autonomous Exploration and Detection with a Unitree Go1 Robot
-- [Check out my Portfolio](https://roy2909.github.io/) for more exciting projects and detailed descriptions.
+MS in Robotics from Northwestern University, with hands-on experience across the full robotics stack — perception, planning, control, and SLAM — on platforms ranging from quadrupeds to 7-DOF manipulators.
+
+### Selected Projects
+
+- **Autonomous Exploration with a Unitree Go1** — Frontier-based exploration and human detection in unknown environments using ROS 2, 3D SLAM (RTAB-Map), and YOLOv8.
+- **Vision-Based Control of a Franka Emika 7-DOF Arm** — Detection and motion planning to autonomously knock down targets, built on ROS 2 and MoveIt.
+- **EKF SLAM from Scratch** — C++/ROS 2 implementation of Extended Kalman Filter SLAM for a TurtleBot3, validated in a custom RViz2 simulation.
+- **Explainable AI for Hand Gesture Recognition** — sEMG signal classification with transfer learning, using Shapley values for interpretability.
+
+More on my [portfolio](https://roy2909.github.io/).
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-roy2909/) or visit my [Website](https://roy2909.github.io/) to learn more about my work and experiences.
-
+Always happy to talk robotics, autonomy, and the ocean. Reach out on [LinkedIn](https://www.linkedin.com/in/rahul-roy2909/).
