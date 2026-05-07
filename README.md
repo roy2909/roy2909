@@ -1,7 +1,7 @@
 # Rahul Roy
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://roy2909.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/rahul-roy2909/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/rahul-roy2909)
 
 ---
 
@@ -24,4 +24,4 @@ More on my [portfolio](https://roy2909.github.io/).
 
 ---
 
-Always happy to talk robotics, autonomy, and the ocean. Reach out on [LinkedIn](https://www.linkedin.com/in/rahul-roy2909/).
+Always happy to talk robotics, autonomy, and the ocean. Reach out on [LinkedIn](https://www.linkedin.com/in/rahul-roy2909).
